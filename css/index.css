@@ -353,7 +353,7 @@ header ul{
     display: block;
     width: 60%;
     height: 3px;
-    background-image: linear-gradient(to right, #ffffff21, #fff, #ffffff21);
+    background-image: linear-gradient(to right, #ffffff00, #fff, #ffffff00);
 }
 
 #companies h2{
